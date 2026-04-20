@@ -11,8 +11,7 @@ import io.cucumber.junit.CucumberOptions;
 ,plugin = "pretty",tags="@DeletePlace")
 public class TestRunner {
 
-	 //1st comment from eclipse
-	 //3rd comment from github
-	
+	//git first change
+	//git 2nd change from branch Sanket
 }
 
